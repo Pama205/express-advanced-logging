@@ -1,7 +1,7 @@
 {
     "name": "express-advanced-logging",
-    "version": "1.0.0",
-    "description": "Middleware de logging avanzado para Express con TypeScript",
+    "version": "0.1.0",
+    "description": "Middleware de logging avanzado para Express con TypeScript (en desarrollo)",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "scripts": {
@@ -24,7 +24,8 @@
         "logging",
         "middleware",
         "typescript",
-        "winston"
+        "winston",
+        "development"
     ],
     "author": "Pedro Alexander Martinez Arthur",
     "license": "MIT",
